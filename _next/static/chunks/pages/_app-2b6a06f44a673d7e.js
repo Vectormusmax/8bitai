@@ -64817,7 +64817,7 @@ void main() {
     8083: function (e) {
       "use strict";
       e.exports = JSON.parse(
-        '{"legals_menu":{"menu":[{"title":"This site uses technical cookies only","url":"#"},{"title":"Privacy Policy","url":"/privacy-policy"}]},"social_menu":{"menu":[{"title":"Linkedin","url":"https://www.linkedin.com/company/8bit-ai/","classes":"linkedin","target":"_blank"},{"title":"Twitter","url":"https://x.com/8bitaicenter","classes":"twitter","target":"_blank"},{"title":"Instagram","url":"https://www.instagram.com/8bit_ai_inc/","classes":"instagram","target":"_blank"},{"title":"Youtube","url":"https://t.me/superai8bit","classes":"youtube","target":"_blank"}]}}'
+        '{"legals_menu":{"menu":[{"title":"This site uses technical cookies only","url":"#"},]},"social_menu":{"menu":[{"title":"Linkedin","url":"https://www.linkedin.com/company/8bit-ai/","classes":"linkedin","target":"_blank"},{"title":"Twitter","url":"https://x.com/8bitaicenter","classes":"twitter","target":"_blank"},{"title":"Instagram","url":"https://www.instagram.com/8bit_ai_inc/","classes":"instagram","target":"_blank"},{"title":"Youtube","url":"https://t.me/superai8bit","classes":"youtube","target":"_blank"}]}}'
       );
     },
     1625: function (e) {
